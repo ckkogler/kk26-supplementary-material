@@ -30,6 +30,6 @@ The transcripts preserve prompts, responses, and progress updates within the sco
 
 ## Status and use
 
-These files document the research process and are supplementary to [KK26]. The manuscripts originated as model outputs; their current versions record the citation revision. Several explicitly identify their arguments as proposed proofs or proof candidates. The citation review is not a certification of all proposed proofs. Their inclusion here does not establish the correctness of every claim or identify every statement with a result of [KK26]. Consult [KK26] for the paper's final statements and proofs when it becomes available.
+These files document the research process and are supplementary to [KK26]. The manuscripts originated as model outputs. Their red provenance notices retain the original wording; the citation revisions are documented in this README. Several explicitly identify their arguments as proposed proofs or proof candidates. The citation review is not a certification of all proposed proofs. Their inclusion here does not establish the correctness of every claim or identify every statement with a result of [KK26]. Consult [KK26] for the paper's final statements and proofs when it becomes available.
 
 For the present, refer to the main paper informally as **[KK26] (2026)** and identify any supplementary manuscript or transcript by its title and filename. A public citation and arXiv link can be added when available.
