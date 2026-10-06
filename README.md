@@ -18,6 +18,8 @@ The collection records model-generated arguments that contributed to the develop
 
 ## Research conversation transcript
 
+This is the **first transcript of the conversation that led to the first proof of the exact overlaps conjecture**.
+
 | File | Coverage |
 | --- | --- |
 | [chat_log_dimension_papers.pdf](chat_log_dimension_papers.pdf) | Research conversations from 27 September to 5 October 2026 concerning the dimension theorem, transcendental Bernoulli convolutions, and generalized exact overlaps; accompanies the first three manuscripts above. |
