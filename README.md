@@ -1,5 +1,7 @@
 # Supplementary material for [KK26]
 
+**Authors of [KK26]:** [Samuel Kittle](https://github.com/samuel-kittle) and [Constantin Kogler](https://github.com/ckkogler).
+
 This repository contains supplementary material for the paper **[KK26]**: five research manuscripts and three accompanying research conversation transcripts. The paper is not yet available on arXiv; **[KK26]** is used here as an informal reference, pending public bibliographic details.
 
 The collection records model-generated arguments that contributed to the development of [KK26], together with subsequent explorations based on that paper. The manuscripts identify GPT-6 Astra as their author and describe prompting by C.K. using the prompter's local context. The five research manuscripts were revised on 5 October 2026 to correct and complete references and attributions; the higher-dimensional manuscript also now explains the equivalence between sublinear linear-part entropy and virtual solvability. The three conversation transcripts are preserved as supplied. Earlier manuscript versions remain available in the Git history.
