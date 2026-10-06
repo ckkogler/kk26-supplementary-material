@@ -2,9 +2,9 @@
 
 **Authors of [KK26]:** [Samuel Kittle](https://github.com/samuel-kittle) and [Constantin Kogler](https://github.com/ckkogler).
 
-This repository contains supplementary material for the paper **[KK26]**: five research manuscripts and three accompanying research conversation transcripts. The paper is not yet available on arXiv; **[KK26]** is used here as an informal reference, pending public bibliographic details.
+This repository contains supplementary material for the paper **[KK26]**: five research manuscripts and one accompanying research conversation transcript. The paper is not yet available on arXiv; **[KK26]** is used here as an informal reference, pending public bibliographic details.
 
-The collection records model-generated arguments that contributed to the development of [KK26], together with subsequent explorations based on that paper. The manuscripts identify GPT-6 Astra as their author and describe prompting by C.K. using the prompter's local context. The five research manuscripts were revised on 5 October 2026 to correct and complete references and attributions; the higher-dimensional manuscript also now explains the equivalence between sublinear linear-part entropy and virtual solvability. The three conversation transcripts are preserved as supplied. Earlier manuscript versions remain available in the Git history.
+The collection records model-generated arguments that contributed to the development of [KK26], together with subsequent explorations based on that paper. The manuscripts identify GPT-6 Astra as their author and describe prompting by C.K. using the prompter's local context. The five research manuscripts were revised on 5 October 2026 to correct and complete references and attributions; the higher-dimensional manuscript also now explains the equivalence between sublinear linear-part entropy and virtual solvability. The conversation transcript is preserved as supplied. Earlier manuscript versions remain available in the Git history.
 
 ## Research manuscripts
 
@@ -20,15 +20,13 @@ The collection records model-generated arguments that contributed to the develop
 
 The higher-dimensional manuscript now cites Breuillard's strong Tits alternative, Tits' classical theorem, and Kesten's amenability criterion, with an argument that also covers nonsymmetric rotation laws. It credits Falconer and Jin for the dimension-conservation input cited through Hochman. Across the collection, the review restored missing author names, clarified the origin of variance summation and standard information inequalities, and completed bibliographic details. The established arithmetic attributions to Breuillard–Varjú, Mahler, and Dimitrov (through Rapaport–Varjú) were retained and checked.
 
-## Research conversation transcripts
+## Research conversation transcript
 
 | File | Coverage |
 | --- | --- |
 | [chat_log_dimension_papers.pdf](chat_log_dimension_papers.pdf) | Research conversations from 27 September to 5 October 2026 concerning the dimension theorem, transcendental Bernoulli convolutions, and generalized exact overlaps; accompanies the first three manuscripts above. |
-| [chat_log_sharp_entropy_loss.pdf](chat_log_sharp_entropy_loss.pdf) | The 5 October 2026 conversation on sharpening the entropy-loss inequality; accompanies `sharp-entropy-loss.pdf`. |
-| [chat_log_virtually_solvable_overlaps.pdf](chat_log_virtually_solvable_overlaps.pdf) | The 5 October 2026 conversation on extending the dimension formula to virtually solvable rotations; accompanies `virtually-solvable-overlaps.pdf`. |
 
-The transcripts preserve prompts, responses, and progress updates within the scope described in each PDF. They are conversation records rather than complete execution logs; referenced attachments and local context are not necessarily included in this repository.
+The transcript preserves prompts, responses, and progress updates within the scope described in the PDF. It is a conversation record rather than a complete execution log; referenced attachments and local context are not necessarily included in this repository.
 
 ## Status and use
 
