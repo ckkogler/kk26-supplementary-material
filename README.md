@@ -18,7 +18,7 @@ The collection records model-generated arguments that contributed to the develop
 
 ## Research conversation transcript
 
-This is the **first transcript of the conversation that led to the first proof of the exact overlaps conjecture**.
+This is the transcript of the conversation that led to the first proof of the exact overlaps conjecture.
 
 | File | Coverage |
 | --- | --- |
