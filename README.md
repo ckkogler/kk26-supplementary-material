@@ -2,7 +2,7 @@
 
 **Authors of [KK26]:** [Samuel Kittle](https://github.com/samuel-kittle) and [Constantin Kogler](https://github.com/ckkogler).
 
-This repository contains supplementary material for **[KK26]**, [*The exact overlaps conjecture for self-similar measures on the real line*](http://constantinkogler.com/Files/ExactOverlapsDim1.pdf). It includes five research manuscripts and one accompanying research conversation transcript.
+This repository contains supplementary material for **[KK26]**, [*The exact overlaps conjecture for self-similar measures on the real line*](https://arxiv.org/abs/2610.10511). It includes five research manuscripts and one accompanying research conversation transcript.
 
 The collection records model-generated arguments that contributed to the development of [KK26], together with subsequent explorations based on that paper. The manuscripts identify GPT-6 Astra as their author and describe prompting by C.K. using the prompter's local context. The conversation transcript is preserved as supplied. Earlier manuscript versions remain available in the Git history.
 
@@ -28,6 +28,6 @@ The transcript preserves prompts, responses, and progress updates within the sco
 
 ## Status and use
 
-These files document the research process and are supplementary to [KK26]. The manuscripts originated as model outputs. Their red provenance notices retain the original wording. Several explicitly identify their arguments as proposed proofs or proof candidates. Their inclusion here does not establish the correctness of every claim or identify every statement with a result of [KK26]. Consult [the main paper](http://constantinkogler.com/Files/ExactOverlapsDim1.pdf) for its statements and proofs.
+These files document the research process and are supplementary to [KK26]. The manuscripts originated as model outputs. Their red provenance notices retain the original wording. Several explicitly identify their arguments as proposed proofs or proof candidates. Their inclusion here does not establish the correctness of every claim or identify every statement with a result of [KK26]. Consult [the main paper](https://arxiv.org/abs/2610.10511) for its statements and proofs.
 
 When citing this collection, refer to **[KK26]** and identify any supplementary manuscript or transcript by its title and filename.
